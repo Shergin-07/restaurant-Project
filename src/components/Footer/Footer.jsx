@@ -9,9 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
-            autem neque veritatis sit ab consequuntur unde maiores labore magnam
-            qui libero, ea nam hic vero aliquid enim id a debitis!
+            © 2006 Tomoto Limited
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
